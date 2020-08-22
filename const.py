@@ -1,4 +1,4 @@
-tc_login = 'root'
-tc_password = 'Paspasw0rd'
-tc_host = 'localhost'
-tc_port = '80'
+tc_login = ''
+tc_password = ''
+tc_host = ''
+tc_port = ''
