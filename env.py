@@ -1,5 +1,5 @@
 login = 'root'
-password = ''
+password = 'Paspasw0rd'
 host = 'localhost'
 url_ra_serv = 'app/rest/server'
 url_ra_all_builds = 'httpAuth/app/rest/builds'
