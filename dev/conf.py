@@ -1,6 +1,3 @@
 tc_login = 'root'
 tc_password = 'Paspasw0rd'
 tc_host = 'localhost'
-url_ra_all_builds = 'httpAuth/app/rest/builds'
-url_ra_by_build_id = 'httpAuth/app/rest/builds/id'
-url_start_second_job = 'httpAuth/action.html?add2Queue=id2unikJob_SecondJob&env.name=id_first_job&env.value='
