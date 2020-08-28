@@ -68,8 +68,7 @@ class DataProcess:
         all_params = ElementTree.fromstring(self.content)
         for child in all_params:
             if child.attrib['name'] == env_name:
-                value_of_env_name = child.attrib['value']
-        return value_of_env_name
+                return child.attrib['value']
 
 
 
